@@ -1,4 +1,3 @@
-# hello-world
-It is just a trial repository.I am new to GitHub.
+Let's one more try.
 I am learner.
 I am curious filled with happiness.
